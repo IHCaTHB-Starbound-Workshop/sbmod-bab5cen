@@ -92,7 +92,7 @@
       "image" : "/interface/title/male.png",
       "characterImage" : "/interface/title/centaurimale.png",
       "hair" : [ "cenm1","cenm2","cenm3","cenm4","cenm5","cenm6" ],
-      "shirt" : [ "apexcommanderjacket", "apexnavyjacket", "apexofficerjacket", "apexspecialistjacket", ""],
+      "shirt" : [ "apexcommanderjacket", "apexnavyjacket", "apexofficerjacket", "apexspecialistjacket"],
       "pants" : [ "apexcommanderpants", "apexnavypants", "apexofficerpants", "apexspecialistpants" ],
       "facialHairGroup" : "",
       "facialHair" : [ ],
