@@ -1,1 +1,17 @@
-
+[
+	{
+		"op": "add",
+		"path": "/initialquests/centauri",
+		"value": [
+			"protectorate"
+		]
+	},
+	{
+		"op": "add",
+		"path": "/pronounGenders/centauri",
+		"value": {
+			"male": "male",
+			"female": "female"
+		}
+	}
+]
