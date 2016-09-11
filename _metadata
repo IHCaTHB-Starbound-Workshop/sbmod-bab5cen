@@ -7,7 +7,17 @@ contains:
 slightly modified humanoid sprite
 11 hair styles
 name/surname generator
-placeholder ship (avian)
+
+placeholder:
+avian ship
+apex outfits and tier armor
+human respawn, likely not to change
+
+soon to come:
++ hairs
++ ship
++ outfits and armor
++ at least one weapon
 
 Find the server version on [url=https://github.com/IsaacHart/sbmod-bab5cen]git.[/url]
 
