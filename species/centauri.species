@@ -3,7 +3,7 @@
 	"charCreationTooltip" : {
 	"title" : "Centauri",
 	"subTitle" : "O2",
-	"description" : "''We Centauri live our lives for appearances, positions, status, title. These are the things by which we define ourselves.'' – Londo Mollari to Adira Tyree, 2258"
+	"description" : "''We Centauri live our lives for appearances, positions, status, title. These are the things by which we define ourselves.'' - Londo Mollari to Adira Tyree, 2258"
   },
   "nameGen" : [ "/species/centaurimalenamegen.config:names", "/species/centaurifemalenamegen.config:names" ],
   "ouchNoises" : [ "/sfx/humanoid/humanhurt_male3.ogg", "/sfx/humanoid/humanhurt_female3.ogg" ],
