@@ -1,38 +1,9 @@
 {
   "author" : "isaac as THE HONEY BADGER",
-  "description" : "[h1]Centauri[/h1]
-invasion from Babylon 5!
-
-contains:
-1 race
-slightly modified humanoid sprite
-11 hair styles
-name/surname generator
-
-placeholder:
-avian ship
-apex outfits and tier armor
-human respawn, likely not to change
-
-soon to come:
-+ hairs
-+ ship
-+ outfits and armor
-+ at least one weapon
-
-Find the server version on [url=https://github.com/IsaacHart/sbmod-bab5cen]git.[/url]
-
-LEAVE A COMMENT IF YOU
-like the mod
-hate the mod
-find an issue with the mod
-take an issue with the mod
-have a question about the mod
-have a problem with the mod
-and especially
-[u][b]if you have a request[/b][/u]",
+  "description" : "[h1]Centauri[/h1]\ninvasion from Babylon 5!\n\ncontains:\n1 race\nslightly modified humanoid sprite\n11 hair styles\nname/surname generator\n\nplaceholder:\navian ship\napex outfits and tier armor\nhuman respawn, likely not to change\n\nsoon to come:\n+ hairs\n+ ship\n+ outfits and armor\n+ at least one weapon\n\nFind the server version on [url=https://github.com/IsaacHart/sbmod-bab5cen]git.[/url]\n\nLEAVE A COMMENT IF YOU\nlike the mod\nhate the mod\nfind an issue with the mod\ntake an issue with the mod\nhave a question about the mod\nhave a problem with the mod\nand especially\n[u][b]if you have a request[/b][/u]",
   "friendlyName" : "Centauri",
-  "link" : "https://github.com/IsaacHart/sbmod-bab5cen",
+  "link" : "steam://url/CommunityFilePage/762353266",
   "name" : "BAB5CEN.IHC",
+  "steamContentId" : "762353266",
   "version" : "0.1"
 }
