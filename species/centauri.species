@@ -7,7 +7,7 @@
   },
   "nameGen" : [ "/species/centaurimalenamegen.config:names", "/species/centaurifemalenamegen.config:names" ],
   "ouchNoises" : [ "/sfx/humanoid/humanhurt_male3.ogg", "/sfx/humanoid/humanhurt_female3.ogg" ],
-  "charGenTextLabels" : [ "Skin colour", "Hair style", "Shirt", "Legwear", "Underwear", "Hair colour", "Shirt colour", "Legwear colour", "CENTRAURI", "Personality" ],
+  "charGenTextLabels" : [ "Skin color", "Hair style", "Shirt", "Legwear", "Underwear", "Hair color", "Shirt color", "Legwear color", "CENTRAURI", "Personality" ],
   "skull" : "/humanoid/centauri/dead.png",
   "effectDirectives" : "?replace=FEFFFFFF=FFFFFFFF?replace=9bd4ffFF=ffea63FF?replace=31a6ffFF=f5bc00FF",
   "defaultBlueprints" : {
