@@ -24,7 +24,7 @@ soon to come:
 
 For more, click the MEGATHREAD link from the steam page.",
   "friendlyName" : "Centauri",
-  "includes":[],
+  "includes":["ANCOIN.IHC"],
   "link" : "steam://url/CommunityFilePage/762353266",
   "name" : "BAB5CEN.IHC",
   "requires":[],
