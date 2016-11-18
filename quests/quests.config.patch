@@ -1,17 +1,7 @@
 [
 	{
-		"op": "add",
+		"op": "copy",
 		"path": "/initialquests/centauri",
-		"value": [
-			"protectorate"
-		]
-	},
-	{
-		"op": "add",
-		"path": "/pronounGenders/centauri",
-		"value": {
-			"male": "male",
-			"female": "female"
-		}
+		"from": "/initialquests/apex"
 	}
 ]

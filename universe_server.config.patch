@@ -1,16 +1,6 @@
 [
-	{ "op" : "add",
+	{ "op" : "copy",
 		"path" : "/speciesShips/centauri",
-		"value" : [
-		    "/ships/avian/aviant0.structure",
-			"/ships/avian/aviant1.structure",
-			"/ships/avian/aviant2.structure",
-			"/ships/avian/aviant3.structure",
-			"/ships/avian/aviant4.structure",
-			"/ships/avian/aviant5.structure",
-			"/ships/avian/aviant6.structure",
-			"/ships/avian/aviant7.structure",
-			"/ships/avian/aviant8.structure"
-		]
-	}
+		"from" : "/speciesShips/avian"
+        }
 ]
